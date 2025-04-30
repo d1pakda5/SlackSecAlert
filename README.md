@@ -57,6 +57,14 @@ myapp.com api.myapp.com production.example.org
 5. **💥 Test**
 - Browse to a domain in your list
 - You should see a Slack message like:
+### 🔍 Burp Suite Activity Detected on Production
+
+**Environment:** Production  
+**Domain:** `myapp.com`  
+**URL:** [https://myapp.com/secret](https://myapp.com/secret)  
+**Time:** `2025-04-30T15:00:00Z`
+
+ℹ️ _This activity is part of security testing. Contact **@yourname** if unsure._
 
 
 
